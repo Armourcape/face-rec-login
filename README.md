@@ -32,11 +32,15 @@ To use this face recognition login system, simply run the `main.py` file and fol
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas or suggestions for improvement, please feel free to create a pull request or open an issue.  ( Keep in mind; This is still a lawn prototype made for academic purposes with a mit license, reply may be delayed or project dropped. )
+Contributions are welcome! If you have any ideas or suggestions for improvement, please feel free to create a pull request or open an issue.  
+( Keep in mind; This is still a lawn prototype made for academic purposes with a mit license, reply may be delayed or project dropped. )
 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+(All Data Mentioned In This Project With Related Owners Have Consented.)[SENSITIVE DATA DECLARATION]
 
 
 
