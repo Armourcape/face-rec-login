@@ -52,6 +52,7 @@ This project will be recieving the following additions in it's next patch
   - Automated data assignment
   - Frontend
   - Real time data addition
+  - Spoof prevention
   - etc.
  
  ## Team
